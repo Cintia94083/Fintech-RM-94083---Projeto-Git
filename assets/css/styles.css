@@ -1,0 +1,110 @@
+:root {
+ 
+}
+
+html {
+    font-size: 1px;
+}
+
+body {
+     
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-style: italic;
+    color: yellow;
+    overflow: auto;
+    background-color: black;
+
+
+}
+
+cadastro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+
+main {
+ 
+}
+
+article  {
+  background-color: black;
+  font-size: 30px;
+  padding: 40px 0;
+  text-align: center;
+
+}
+
+
+header {
+    display: flex;
+}
+
+header>div {
+    margin-right: var(--spacing);
+}
+
+
+header img {
+width: 50rem;
+height:45rem;
+    
+}
+header>img {
+    margin-right: auto;
+}
+
+div{
+   display:inline-block;
+}
+
+article .profile-fundo{
+    width: 500rem;
+    height:700rem;
+    background-image: url("../images/fundo.png");
+    background-size: cover;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article msgbemvindo {
+  font-style: normal;
+  font-size: 24px;
+  text-align: right;
+  background-color: black;
+
+}
+
+article, form msgpadrao {
+  font-style: normal;
+  font-size: 12px;
+  text-align: center    ;
+  background-color: black;
+
+}
+article bolsocheio {
+  font-size: 45x;
+  text-align: center;
+  background-color: black;
+}
+article app {
+  font-style: normal;
+  font-size: 25px;
+  text-align: center;
+  background-color: black;
+
+form {
+     
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-style: normal;
+    color: yellow;
+    overflow: auto;
+    background-color: black;
+   
+}
+
